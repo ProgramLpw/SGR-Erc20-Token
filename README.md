@@ -18,7 +18,7 @@
   - Added a minting authority delegation mechanism that allows the owner to specify other addresses with minting authority
   - Improve the authority check mechanism
 
-## Follow-up consideration:
+## Follow up consideration:
   - Added token upgrade mechanism
   - Added vote weight function
   - Added bonus mechanism
